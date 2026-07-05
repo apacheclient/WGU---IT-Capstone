@@ -5,7 +5,6 @@
 **Secure, Responsive Unified Employee Self-Service Platform**  
 **Capstone Project • B.S. Information Technology • Western Governors University**
 
-![Project Banner](https://github.com/apacheclient/WGU---IT-Capstone)
 
 ---
 
