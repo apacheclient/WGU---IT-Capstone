@@ -47,11 +47,11 @@ Texas Grocers operates ~300 stores across Texas with 85,000 associates. Their le
 
 ## 📚 Documentation & Appendices
 
-- **[Capstone Proposal (Task 2)](C769_ROM3_TASK2_AARONSMITH.docx)**
-- **[Post-Implementation Report (Task 3)](C769_ROM3_TASK3_AARONSMITH_.docx)**
-- **[Appendix A – UI Wireframes](IT%20Captone/Appendix_A.pptx)**
-- **[Appendix B – Network Diagrams](IT%20Captone/Appendix_B.pptx)**
-- **[Appendix C – Training Materials](IT%20Captone/Appendix_C.pptx)**
+- **[Capstone Proposal (Task 2)](https://github.com/apacheclient/WGU---IT-Capstone/blob/main/IT%20Captone/C769_ROM3_TASK2_AARONSMITH.docx)**
+- **[Post-Implementation Report (Task 3)](https://github.com/apacheclient/WGU---IT-Capstone/blob/main/IT%20Captone/C769_ROM3_TASK3_AARONSMITH_.docx)**
+- **[Appendix A – UI Wireframes](https://github.com/apacheclient/WGU---IT-Capstone/blob/main/IT%20Captone/Appendix%20A_.pptx))**
+- **[Appendix B – Network Diagrams](https://github.com/apacheclient/WGU---IT-Capstone/blob/main/IT%20Captone/Appendix%20B_.pptx)**
+- **[Appendix C – Training Materials](https://github.com/apacheclient/WGU---IT-Capstone/blob/main/IT%20Captone/Appendix%20C_.pptx)**
 
 *(PNG preview images for all appendices are in the same folder)*
 
