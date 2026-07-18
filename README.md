@@ -83,7 +83,7 @@ IT Capstone/
 
 1. Clone or browse this repository
 2. Open the documentation files (`.docx` and `.pptx`) using Microsoft Word or PowerPoint
-3. Explore the source code in the `IT Capstone/` folder
+3. Explore the project in the `IT Capstone/` folder
 
 ---
 
